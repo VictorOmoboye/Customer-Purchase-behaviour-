@@ -5,5 +5,9 @@ This project focuses on designing a comprehensive **Customer Purchase Behavior D
 
 
 
-### DASHBOARD
+## DASHBOARD
 ![Customer behaviour Dashboard](https://github.com/user-attachments/assets/da2b63b2-e313-46de-bdb6-24ca78a86b40)
+
+## THANK YOU
+For more information about this projcet, check out the attached Files, or contact me
+![image](https://github.com/user-attachments/assets/400a6867-54ca-409f-b788-6d12b14d0833)
