@@ -3,7 +3,7 @@
 This project focuses on designing a comprehensive **Customer Purchase Behavior Dashboard** for **Global Mart Inc.** using **Microsoft Excel** to analyze customer purchasing patterns and trends. The dashboard provide actionable insights to help stakeholders identify key purchasing behaviors, track product performance, and analyze sales data for optimizing inventory and uncovering growth opportunities. By leveraging these insights, the project aims to enhance customer satisfaction, improve marketing strategies, and support data-driven decision-making across sales, marketing, and customer service departments, ultimately driving business growth.
 ![image](https://github.com/user-attachments/assets/d70cc2f4-4903-4944-b962-0b9208cbba0b)
 
-
+***Disclaimer⚠️:** All datasets and reports in this repository do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All info are dummy are design to demonstrate my capabilities of using Tableau to build advance analytics in Real Estate industry.*
 
 ## DASHBOARD
 Further information about this project can be found in attached documents
